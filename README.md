@@ -7,9 +7,9 @@
 - HTML :white_check_mark:
 
 - CSS (flexbox) :white_check_mark:
--
+
 - CSS (grid) :white_check_mark:
--
+
 - Figma :white_check_mark:
 
 - GitHub :white_check_mark:
@@ -20,4 +20,4 @@
 
 **_Проект: Оно тебе надо [Код](https://github.com/Alexandr57Orl/posmotri_v_okno)_**
 
-![часть макета](https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671804828_www-funnyart-club-p-koshka-smotrit-v-okno-fotografii-4.jpg "главное изображение макета")
+![часть макета](https://w.forfun.com/fetch/e5/e5f7eec13eab557b3397ff90a407c917.jpeg "главное изображение макета")

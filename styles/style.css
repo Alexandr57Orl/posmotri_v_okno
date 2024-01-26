@@ -48,8 +48,6 @@ ol {
 }
 .content {
   padding: 133px 30px;
-  max-width: 1140px;
-  height: 100%;
   align-items: end;
   display: grid;
   grid-template-columns: 711px 399px;
