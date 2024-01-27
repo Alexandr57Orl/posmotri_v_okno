@@ -185,7 +185,7 @@ input[type="checkbox"]:checked + span::before {
   text-underline-position: under;
 }
 
-.button:active:active {
+.button:active {
   background: #545050;
 }
 /* Стилизация кнопки 1 */
